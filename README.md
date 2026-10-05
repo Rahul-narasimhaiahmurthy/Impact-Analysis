@@ -7,7 +7,9 @@ A finite element study of low velocity bird impact on satin weave composite lami
 Aircraft components are prone to soft body impacts based on incidents sich as pebbles, hailstones, gunshots and also bird strikes which have been noticed in recent days. Bird strike can lead to severe local damage on lightweight structure some time even leading to disasters. This work mainly focusses on evaluating strength of the laminates under constant velocity varying bird mass.
 
 Solver : Abaqus explicit dynamics
+
 Pre and post processing : Python 
+
 Application: Composite mechanics for aerospace structures
 
 ## Model Setup
