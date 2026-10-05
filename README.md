@@ -2,7 +2,7 @@
 **Numerical Assessment of Bird Impact on Composite Laminates**
 
 A finite element study of low velocity bird impact on satin weave composite laminates using Abaqus. The project evaluates chosen numerical method against experimental results and standards.
-
+## NOTE: Python scripts and plots are confidential since the journal is under publication stage
 ## Overview
 Aircraft components are prone to soft body impacts based on incidents sich as pebbles, hailstones, gunshots and also bird strikes which have been noticed in recent days. Bird strike can lead to severe local damage on lightweight structure some time even leading to disasters. This work mainly focusses on evaluating strength of the laminates under constant velocity varying bird mass.
 
