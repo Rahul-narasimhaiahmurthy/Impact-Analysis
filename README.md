@@ -17,23 +17,23 @@ Smooth particle hydrodynamics method used to simulate bird and plate interaction
 
 ## Results
 ### Model setup
-![Load and support conditions](figure/Model.png)
+![Load and support conditions](Results/Model.png)
 
 *Imopact analysis model showing contact between bird and plate along Z-direction .*
 
 ### Stress result
 
-![Stress result](figure/Stress.png)
+![Stress result](Results/Stress.png)
 
 *Stress distribution along the plate area at maximum impact force.*
 
 ### Impact Sequence
 
-![Impact sequence 0 ms](figure/0ms.png)
-![Impact sequence 0.6 ms](figure/0.6ms.png)
-![Impact sequence 1 ms](figure/1ms.png)
-![Impact sequence 1.6 ms](figure/1.6ms.png)
-![Impact sequence 2 ms](figure/2ms.png)
+![Impact sequence 0 ms](Results/0ms.png)
+![Impact sequence 0.6 ms](Results/0.6ms.PNG)
+![Impact sequence 1 ms](Results/1ms.png)
+![Impact sequence 1.6 ms](Results/1.6ms.PNG)
+![Impact sequence 2 ms](Results/2ms.png)
 *Impact sequence of bird on plate.*
 
 ## Summary
