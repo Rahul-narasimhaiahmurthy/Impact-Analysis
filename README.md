@@ -15,6 +15,9 @@ Application: Composite mechanics for aerospace structures
 ## Model Setup
 Smooth particle hydrodynamics method used to simulate bird and plate interaction. The bird is modelled as a cylinder with varying masses and maintaining constant standard velocity as per aviation standards. Composite plate is rectangular laminate composed of Carbon and Kevlar materials with varied compositions.  Multiscale modellling is used to create composite laminates of 2 and 5 harness satins. Pyhton script was developed to create input files and to post process the result and to plot the curves. Performed a total of 
 
+
+## Results
+
 ## Summary
 1.Performed numerical analysis captured impact dynamics response for varying mass.
 
