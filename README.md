@@ -34,6 +34,8 @@ Smooth particle hydrodynamics method used to simulate bird and plate interaction
 ![Impact sequence 1 ms](Results/1ms.png)
 ![Impact sequence 1.6 ms](Results/1.6ms.PNG)
 ![Impact sequence 2 ms](Results/2ms.png)
+
+
 *Impact sequence of bird on plate.*
 
 ## Summary
